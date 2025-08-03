@@ -1,3 +1,3 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+Microservice demonstartes understanding of Backedn + API integerations using node.js, mongoDB Atlas, mongoose. Allows users to "sign up" and then once user is created, they can log excercies. API is used to expose logs while applying various filters
